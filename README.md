@@ -1,5 +1,6 @@
 # Citibike-May-2023-Report
 Using PowerBI, I created the following report.
+
 ![citibike_0523](https://github.com/hanamartin876/Citibike-May-2023-Report/assets/98727041/a9e92d03-705a-496a-ba25-98d6f1a15310)
 
 I downloaded Citibike's system data from May 2022, April 2023, and May 2023. I then used Power Query in PowerBI to aggregate the different datasets into one, and prepared the dataset for performing analysis.
